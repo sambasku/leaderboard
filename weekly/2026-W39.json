@@ -1,0 +1,81 @@
+{
+  "week_id": "2026-W39",
+  "starts_at": "2026-09-21T00:00:00+07:00",
+  "ends_at": "2026-09-28T00:00:00+07:00",
+  "finalized": true,
+  "generated_at": "2026-11-21T04:00:38.473Z",
+  "entries": [
+    {
+      "rank": 1,
+      "username": "admin_user",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36QZDW98ENRCCH2Q5B4VWQK/01M492GRH5Y6F7A4Q14EG1KAY8.webp",
+      "contributions": 0,
+      "verifications": 32,
+      "combined": 32,
+      "is_verifier": true
+    },
+    {
+      "rank": 2,
+      "username": "ibnulmutaki",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36WS1BZDMQH72GNT39260W3/01M3846F6YS37EWC3FJ9PGFZJG.png",
+      "contributions": 2,
+      "verifications": 10,
+      "combined": 12,
+      "is_verifier": true
+    },
+    {
+      "rank": 3,
+      "username": "basripauzan",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M375ZEM4TBVMNE8TBFADGP0S/01M4R23Y07EKNJ2N84D77BS4EN.webp",
+      "contributions": 10,
+      "verifications": 0,
+      "combined": 10,
+      "is_verifier": false
+    },
+    {
+      "rank": 4,
+      "username": "pengimpor_data_csv",
+      "avatar_url": null,
+      "contributions": 7,
+      "verifications": 0,
+      "combined": 7,
+      "is_verifier": false
+    },
+    {
+      "rank": 4,
+      "username": "ruli_jawai",
+      "avatar_url": null,
+      "contributions": 7,
+      "verifications": 0,
+      "combined": 7,
+      "is_verifier": true
+    },
+    {
+      "rank": 6,
+      "username": "eitha_chan",
+      "avatar_url": null,
+      "contributions": 5,
+      "verifications": 0,
+      "combined": 5,
+      "is_verifier": false
+    },
+    {
+      "rank": 7,
+      "username": "eza_eza",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M3C2Q5VETC0948M8CTBW1SF8/01M3C2RAWXXJYMDS0EWMYFACNY.png",
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 7,
+      "username": "sany_adika_prayata",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    }
+  ]
+}
