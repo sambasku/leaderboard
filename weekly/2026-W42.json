@@ -1,0 +1,99 @@
+{
+  "week_id": "2026-W42",
+  "starts_at": "2026-10-12T00:00:00+07:00",
+  "ends_at": "2026-10-19T00:00:00+07:00",
+  "finalized": true,
+  "generated_at": "2026-11-21T04:04:38.961Z",
+  "entries": [
+    {
+      "rank": 1,
+      "username": "pengimpor_data_csv",
+      "avatar_url": null,
+      "contributions": 47,
+      "verifications": 0,
+      "combined": 47,
+      "is_verifier": false
+    },
+    {
+      "rank": 2,
+      "username": "ibnulmutaki",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36WS1BZDMQH72GNT39260W3/01M3846F6YS37EWC3FJ9PGFZJG.png",
+      "contributions": 0,
+      "verifications": 37,
+      "combined": 37,
+      "is_verifier": true
+    },
+    {
+      "rank": 2,
+      "username": "jasmin_jf10",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M3F37931TFR7YY0TVMMWZ454/01M3PFW37C6KADCFV3WZ497P3V.webp",
+      "contributions": 0,
+      "verifications": 37,
+      "combined": 37,
+      "is_verifier": true
+    },
+    {
+      "rank": 4,
+      "username": "noboss",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M54QTH62394165SAHDF7326G/01M54R08GG5X2ZGBKHN94XETFA.webp",
+      "contributions": 17,
+      "verifications": 6,
+      "combined": 23,
+      "is_verifier": true
+    },
+    {
+      "rank": 5,
+      "username": "ruli_jawai",
+      "avatar_url": null,
+      "contributions": 4,
+      "verifications": 11,
+      "combined": 15,
+      "is_verifier": true
+    },
+    {
+      "rank": 6,
+      "username": "admin_user",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36QZDW98ENRCCH2Q5B4VWQK/01M492GRH5Y6F7A4Q14EG1KAY8.webp",
+      "contributions": 0,
+      "verifications": 6,
+      "combined": 6,
+      "is_verifier": true
+    },
+    {
+      "rank": 7,
+      "username": "arsa_irfandi",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M3VE0N7EC6E7B8ZNDTRHK4QG/01M3YY5MTRNRRF49TPH6K6GPB5.webp",
+      "contributions": 0,
+      "verifications": 5,
+      "combined": 5,
+      "is_verifier": true
+    },
+    {
+      "rank": 8,
+      "username": "baim_email",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 8,
+      "username": "desa_gelik",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M55DN3AE95AG9BBCZ8D99P9V/01M5EEKG80XPFWBJKC0JN3MBCA.webp",
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 8,
+      "username": "satria_4eiy7_email",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M54FVY09MG2AC8MV6G3H0MCA/01M5MZZSSH89A106NSMNRDGQAF.webp",
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    }
+  ]
+}
