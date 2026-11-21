@@ -1,0 +1,72 @@
+{
+  "week_id": "2026-W41",
+  "starts_at": "2026-10-05T00:00:00+07:00",
+  "ends_at": "2026-10-12T00:00:00+07:00",
+  "finalized": true,
+  "generated_at": "2026-11-21T04:03:38.598Z",
+  "entries": [
+    {
+      "rank": 1,
+      "username": "pengimpor_data_csv",
+      "avatar_url": null,
+      "contributions": 149,
+      "verifications": 0,
+      "combined": 149,
+      "is_verifier": false
+    },
+    {
+      "rank": 2,
+      "username": "ibnulmutaki",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36WS1BZDMQH72GNT39260W3/01M3846F6YS37EWC3FJ9PGFZJG.png",
+      "contributions": 0,
+      "verifications": 112,
+      "combined": 112,
+      "is_verifier": true
+    },
+    {
+      "rank": 3,
+      "username": "arsa_irfandi",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M3VE0N7EC6E7B8ZNDTRHK4QG/01M3YY5MTRNRRF49TPH6K6GPB5.webp",
+      "contributions": 0,
+      "verifications": 40,
+      "combined": 40,
+      "is_verifier": true
+    },
+    {
+      "rank": 4,
+      "username": "admin_user",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36QZDW98ENRCCH2Q5B4VWQK/01M492GRH5Y6F7A4Q14EG1KAY8.webp",
+      "contributions": 0,
+      "verifications": 24,
+      "combined": 24,
+      "is_verifier": true
+    },
+    {
+      "rank": 5,
+      "username": "baim_email",
+      "avatar_url": null,
+      "contributions": 4,
+      "verifications": 0,
+      "combined": 4,
+      "is_verifier": false
+    },
+    {
+      "rank": 6,
+      "username": "ruli_jawai",
+      "avatar_url": null,
+      "contributions": 2,
+      "verifications": 0,
+      "combined": 2,
+      "is_verifier": true
+    },
+    {
+      "rank": 7,
+      "username": "jasmin_jf10",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M3F37931TFR7YY0TVMMWZ454/01M3PFW37C6KADCFV3WZ497P3V.webp",
+      "contributions": 0,
+      "verifications": 1,
+      "combined": 1,
+      "is_verifier": true
+    }
+  ]
+}
