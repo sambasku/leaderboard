@@ -1,1 +1,234 @@
-{"week_id":"2026-W00","starts_at":"2026-01-01T00:00:00+07:00","ends_at":"2026-01-08T00:00:00+07:00","finalized":false,"generated_at":"2026-01-01T00:00:00Z","entries":[]}
+{
+  "week_id": "2026-W47",
+  "starts_at": "2026-11-16T00:00:00+07:00",
+  "ends_at": "2026-11-23T00:00:00+07:00",
+  "finalized": false,
+  "generated_at": "2026-11-21T03:57:38.390Z",
+  "entries": [
+    {
+      "rank": 1,
+      "username": "ibnulmutaki",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36WS1BZDMQH72GNT39260W3/01M3846F6YS37EWC3FJ9PGFZJG.png",
+      "contributions": 1,
+      "verifications": 187,
+      "combined": 188,
+      "is_verifier": true
+    },
+    {
+      "rank": 2,
+      "username": "pengimpor_data_csv",
+      "avatar_url": null,
+      "contributions": 106,
+      "verifications": 0,
+      "combined": 106,
+      "is_verifier": false
+    },
+    {
+      "rank": 3,
+      "username": "hairul_mahir",
+      "avatar_url": null,
+      "contributions": 48,
+      "verifications": 22,
+      "combined": 70,
+      "is_verifier": false
+    },
+    {
+      "rank": 4,
+      "username": "muhammad_iksan",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M74FEKZDA04Z9QBS44TR8T11/01M7EBE4W7XAEN2NA9XHPCCHYJ.webp",
+      "contributions": 39,
+      "verifications": 14,
+      "combined": 53,
+      "is_verifier": false
+    },
+    {
+      "rank": 5,
+      "username": "jasmin_jf10",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M3F37931TFR7YY0TVMMWZ454/01M3PFW37C6KADCFV3WZ497P3V.webp",
+      "contributions": 0,
+      "verifications": 34,
+      "combined": 34,
+      "is_verifier": true
+    },
+    {
+      "rank": 6,
+      "username": "arraman_112",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 29,
+      "combined": 30,
+      "is_verifier": true
+    },
+    {
+      "rank": 7,
+      "username": "xyera_v2",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M5082VHDR6R8XY22658ZSGK4/01M57ERC7VG2GZW40B6HNMMFY0.webp",
+      "contributions": 0,
+      "verifications": 29,
+      "combined": 29,
+      "is_verifier": true
+    },
+    {
+      "rank": 8,
+      "username": "baim_baim_google",
+      "avatar_url": null,
+      "contributions": 12,
+      "verifications": 9,
+      "combined": 21,
+      "is_verifier": false
+    },
+    {
+      "rank": 8,
+      "username": "jumadi",
+      "avatar_url": null,
+      "contributions": 14,
+      "verifications": 7,
+      "combined": 21,
+      "is_verifier": false
+    },
+    {
+      "rank": 10,
+      "username": "arafi_rafi",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M5KCH9SD7QMG42SB55PJDSZG/01M5KD3VJGVSXMSVZDPS3K6K8V.webp",
+      "contributions": 16,
+      "verifications": 3,
+      "combined": 19,
+      "is_verifier": false
+    },
+    {
+      "rank": 11,
+      "username": "bahasesambas",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M5GMY5E8D499ZFKG7T6F52TW/01M7Q1MBHCG6C0VP7CWXGC0SJR.webp",
+      "contributions": 7,
+      "verifications": 5,
+      "combined": 12,
+      "is_verifier": false
+    },
+    {
+      "rank": 12,
+      "username": "arif_nurarifin",
+      "avatar_url": null,
+      "contributions": 5,
+      "verifications": 2,
+      "combined": 7,
+      "is_verifier": false
+    },
+    {
+      "rank": 13,
+      "username": "sahid_jawai",
+      "avatar_url": null,
+      "contributions": 4,
+      "verifications": 2,
+      "combined": 6,
+      "is_verifier": false
+    },
+    {
+      "rank": 14,
+      "username": "borneotech177",
+      "avatar_url": null,
+      "contributions": 3,
+      "verifications": 0,
+      "combined": 3,
+      "is_verifier": false
+    },
+    {
+      "rank": 14,
+      "username": "dian_musthofa",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M6GG740JJ7ZY21F837FSKBJK/01M75143J303D2ABQYFP0SGXZV.webp",
+      "contributions": 3,
+      "verifications": 0,
+      "combined": 3,
+      "is_verifier": false
+    },
+    {
+      "rank": 14,
+      "username": "justin_google",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M7PQ6FVHCH0NETKX464WGT1S/01M7PQACSZ2WDZQC83VPXGDJGW.webp",
+      "contributions": 2,
+      "verifications": 1,
+      "combined": 3,
+      "is_verifier": false
+    },
+    {
+      "rank": 17,
+      "username": "arya_dika",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M7PW8P6NCMVJTT5QPPMTZX44/01M7PWFCPP0AX5NP8E85DE2VHK.webp",
+      "contributions": 1,
+      "verifications": 1,
+      "combined": 2,
+      "is_verifier": false
+    },
+    {
+      "rank": 17,
+      "username": "er_muhammad_official",
+      "avatar_url": null,
+      "contributions": 2,
+      "verifications": 0,
+      "combined": 2,
+      "is_verifier": false
+    },
+    {
+      "rank": 19,
+      "username": "arizal_s_pd",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 19,
+      "username": "bagaz4625",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 19,
+      "username": "ibnu_santara",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 19,
+      "username": "live_tiktok",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 19,
+      "username": "subhan_nur",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    },
+    {
+      "rank": 19,
+      "username": "syahuri",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M6R10N1ZP80XJF38WFZ344YM/01M6SMRC4B146T6KMMVFSGQPCV.webp",
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": true
+    },
+    {
+      "rank": 19,
+      "username": "uray_enggar",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M4ZJP7NAR1TNP27SCQHAS6BN/01M5EF0ESY0DXZ35Y9FNAA6HM8.webp",
+      "contributions": 0,
+      "verifications": 1,
+      "combined": 1,
+      "is_verifier": true
+    }
+  ]
+}
