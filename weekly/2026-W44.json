@@ -1,0 +1,99 @@
+{
+  "week_id": "2026-W44",
+  "starts_at": "2026-10-26T00:00:00+07:00",
+  "ends_at": "2026-11-02T00:00:00+07:00",
+  "finalized": true,
+  "generated_at": "2026-11-21T04:06:38.462Z",
+  "entries": [
+    {
+      "rank": 1,
+      "username": "admin_user",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36QZDW98ENRCCH2Q5B4VWQK/01M492GRH5Y6F7A4Q14EG1KAY8.webp",
+      "contributions": 0,
+      "verifications": 33,
+      "combined": 33,
+      "is_verifier": true
+    },
+    {
+      "rank": 2,
+      "username": "purna_habdiansyah",
+      "avatar_url": null,
+      "contributions": 25,
+      "verifications": 0,
+      "combined": 25,
+      "is_verifier": false
+    },
+    {
+      "rank": 3,
+      "username": "xyera_v2",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M5082VHDR6R8XY22658ZSGK4/01M57ERC7VG2GZW40B6HNMMFY0.webp",
+      "contributions": 0,
+      "verifications": 24,
+      "combined": 24,
+      "is_verifier": true
+    },
+    {
+      "rank": 4,
+      "username": "pengimpor_data_csv",
+      "avatar_url": null,
+      "contributions": 13,
+      "verifications": 0,
+      "combined": 13,
+      "is_verifier": false
+    },
+    {
+      "rank": 5,
+      "username": "he_goath",
+      "avatar_url": null,
+      "contributions": 6,
+      "verifications": 0,
+      "combined": 6,
+      "is_verifier": false
+    },
+    {
+      "rank": 6,
+      "username": "dalinarayan9_coder",
+      "avatar_url": null,
+      "contributions": 3,
+      "verifications": 0,
+      "combined": 3,
+      "is_verifier": false
+    },
+    {
+      "rank": 6,
+      "username": "ibnulmutaki",
+      "avatar_url": "https://cdn.jsdelivr.net/gh/sambasku/images@main/assets/avatars/01M36WS1BZDMQH72GNT39260W3/01M3846F6YS37EWC3FJ9PGFZJG.png",
+      "contributions": 0,
+      "verifications": 3,
+      "combined": 3,
+      "is_verifier": true
+    },
+    {
+      "rank": 6,
+      "username": "live_tiktok",
+      "avatar_url": null,
+      "contributions": 3,
+      "verifications": 0,
+      "combined": 3,
+      "is_verifier": false
+    },
+    {
+      "rank": 9,
+      "username": "pendi_fb",
+      "avatar_url": null,
+      "contributions": 2,
+      "verifications": 0,
+      "combined": 2,
+      "is_verifier": false
+    },
+    {
+      "rank": 10,
+      "username": "fahmi_saputra",
+      "avatar_url": null,
+      "contributions": 1,
+      "verifications": 0,
+      "combined": 1,
+      "is_verifier": false
+    }
+  ]
+}
